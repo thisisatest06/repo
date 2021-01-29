@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: ARAR
+Components: main
+Date: Fri, 29 Jan 2021 15:12:16 +0000
+Description: Arya 06's Repo
+Label: Arya 06's Repo
+Origin: Arya 06's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ cbdc0610543df05f5d4e5d7f8a8f222e              838 Packages
+ 076e014033db7b88f31ed25fa5489d61              577 Packages.bz2
+ e6fdda2b78ae99165af28cac392cc894              524 Packages.gz
+ fc2858d73a3f691693677b47a05b768e              584 Packages.xz
+ bd8061724d056e4b4801bf58a0504d52              516 Packages.zst
+ 34bea09faf9b0645a25d4c7121a53567              198 Release
+SHA1:
+ 571aa1f362b4663c88d2846ef6d120ec12922178              838 Packages
+ 7162753c7540e7c6bd9590261ad574680037174c              577 Packages.bz2
+ 50a45ac1791fc64809c2b0db7fceb62f16ac3b9a              524 Packages.gz
+ af58608beec869366ad0ceb7b3f88d72f20c7368              584 Packages.xz
+ 347670ea37d85304311e445bff7061702b418241              516 Packages.zst
+ 346a1e5e9cf0994c7291f9ac067441447f176cd9              198 Release
+SHA256:
+ 6239bea21c7e748e6c287cfa9b11e30d43fe4912aecc4970dc329e6ed264da23              838 Packages
+ 78acd11c5bf9175d654a34d348cf89607aab85a1e015ac707f4b22d2239f4f4f              577 Packages.bz2
+ 6f3908768decb603e10a41df420864dcb0a61bc4928a4dbf129a453e4752a7b2              524 Packages.gz
+ 11dd55e02c0776cb328a9358a88e9010bd38722a9375e59e9df1f5a757ea3309              584 Packages.xz
+ 83a7f7422c1751f4ff71a6141ec9e8f0646dcd2b277332a18a4df9efe2c1b7c9              516 Packages.zst
+ 376fae9b8f20d256d357516334625bcc99eb938ddbcd714310c0444817e66d49              198 Release
+SHA512:
+ d802be0ff900bfa2a99182e5387c898ec1df256023bc5b02ff21e16ba274d6f139504fe8af88d0fc030e82dfa0b701316244f93c206831e134d7093f4d862fe8              838 Packages
+ 967152483ac5fc81620120b52be8c43c969e29013c069ce299bd6f3ca275e68ee1c7ad6c66449ce760dfe5e5d4367f50b396f5b369c9f4a7e1a557904c091d50              577 Packages.bz2
+ 468c16c5556a25682718c00e46d7e6d935fb41c5f8ddffad66b8219d1a5dc4bfe03fd4822022d6be9538bd710a6ab751e6accfd92669f01064f084fbf078faea              524 Packages.gz
+ 9d435a7d8ab8bc05198414264be886844360f1ed67530dcd1c9af94860af8876252362022e166cbe4ec0655ea5879f169da412ba7b6bf767322d90e08e84ff68              584 Packages.xz
+ ca8f871d4dfc99c7b5f27ff967a72ac0565a50e6ae9ef247b60b4a3fd2f5e363d3f91b6dd9bc8e46d3c0a089f49e2cb2ff6d7095c5ae83640320be46a77f71d7              516 Packages.zst
+ 23853ea67ac0ac3552b8299a63007f424003d5ff5651d07780a3c0a87199106e5d370c7985183271db309676464517ef2299179b97e828b8011d73bd32c2a856              198 Release
