@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "",
+    "headerImage": "https://raw.githubusercontent.com/arya1106/repo/master/assets/nappytime14/banner.png",
     "tintColor": "#0657bb",
     "tabs": [
         {
@@ -9,7 +9,7 @@
                 {
                     "useBoldText": true,
                     "class": "DepictionSubheaderView",
-                    "title": "SleepyTime",
+                    "title": "NappyTime14",
                     "useBottomMargin": false
                 },
                 {
@@ -48,7 +48,7 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "01-29-2021",
+                    "text": "01-30-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
