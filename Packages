@@ -7,11 +7,11 @@ Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.arya06.sleepytime14
 Filename: ./debians/com.arya06.nappytime14_0.0.1_iphoneos-arm.deb
-Size: 27338
-MD5sum: bf9a553af4b851124b44c5dedde25c92
-SHA1: ac89975a4fbb30fc55c1d0df48689d3f709620cb
-SHA256: 539dbc4dcdc819fc76d15500264fb18d4e7a2966bc0da0fc59a8bc34fcc7407d
-SHA512: 32ed93777d27c6e8ae7d8f0b5ade29661ff72e5ba0c1eca4eed191ba51404ff787d77e3f5cb516b40b8765a5fab96a11b91310bb4d803ec4527d87c3dd8a4c39
+Size: 27218
+MD5sum: 67172b3712c158c66389fad12b406301
+SHA1: f583271ffc916b01f58bc7391cc6a6e3ae7a5f0b
+SHA256: f9446e0db0ab5e615ef99819ca0c8be45c4053d14c25f910fa9731bedef504e5
+SHA512: 23fe88bf156bac29665d9af1e2e012a79137927b133b398d75f3c017fe455655b70a20e203b816801c7ca57da9496a6be22e8a4eebeb2975170b19de8bd6c5b5
 Description: Countdowns for your alarms!
 Name: NappyTime14
 Author: arya06
