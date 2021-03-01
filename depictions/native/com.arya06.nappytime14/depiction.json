@@ -28,7 +28,31 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://i.imgur.com/ztf1QfD.png"
+                            "url": "https://i.imgur.com/WWRPLDW.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/QBjokTl.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/OTtGkzv.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/iLUsFij.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/DPvUIHU.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/NwCdQ7i.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://i.imgur.com/DnCSu8I.png"
                         }
                     ]
                 },
@@ -36,14 +60,14 @@
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
-                    "markdown": "NappyTime14 shows countdowns to your alarms in the stock Clock app.",
+                    "markdown": "NappyTime14 shows countdowns to your alarms in the stock Clock app and shows a countdown to your next alarm on the Lock Screen.",
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "0.0.2",
+                    "text": "1.0.0",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },

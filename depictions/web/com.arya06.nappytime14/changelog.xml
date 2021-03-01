@@ -1,7 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.0</version>
+		<change>Add Lock Screen countdown, add bedtime alarm support, all new prefs, add text styles</change>
 		<version>0.0.2</version>
-		<change>Initial Release</change>
+		<change>Fix iOS 13 Crash</change>
 		<version>0.0.1</version>
 		<change>Initial Release</change>
 	</changes>
