@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Fix bug where Lock Screen countdown was displayed even if no alarms were enabled.</change>
 		<version>1.0.0</version>
 		<change>Add Lock Screen countdown, add bedtime alarm support, all new prefs, add text styles</change>
 		<version>0.0.2</version>

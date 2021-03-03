@@ -61,3 +61,24 @@ Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytim
 SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
 Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
 
+Package: com.arya06.nappytime14
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: arya06
+Installed-Size: 1028
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11), preferenceloader
+Conflicts: com.arya06.sleepytime14
+Filename: ./debians/com.arya06.nappytime14_1.0.1_iphoneos-arm.deb
+Size: 702628
+MD5sum: 214bd55864dfe6bf0672b3f80680955d
+SHA1: 3ade1cbcde2d98f07af7c89e16c6f6da56a05d31
+SHA256: 548dec6a65bbbe5f4efeead5a1cd8586ed1e28a6e3e3648966e682e6fe2b8da8
+SHA512: c749024148c696461da5357725b5e897dc037058016813da9f0baae778f61ff529d7db8cbbac1af6fe169365ac8284b5f214fe000cefdb64d980f5ebb122d73c
+Description: Countdowns for your alarms!
+Name: NappyTime14
+Author: arya06
+Depiction: https://arya1106.github.io/repo/depictions/web/?p=com.arya06.nappytime14
+SileoDepiction: https://arya1106.github.io/repo/depictions/native/com.arya06.nappytime14/depiction.json
+Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+
