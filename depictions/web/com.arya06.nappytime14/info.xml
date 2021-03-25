@@ -33,7 +33,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Add jellyfish compatibility, fix lock screen countdown, fix bug with incorrect times being displayed, fix bug where times were not shown when scrolling alarm list.</change>
+		<change>Optimized LS countdown.</change>
 	</changelog>
 	<links>
 		<link>
